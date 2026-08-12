@@ -1,4 +1,25 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://philosophy-site.pages.dev/'
 locale = 'zh-cn'
-title = '哲学网站'
-theme = 'ananke'
+title = 'Welcome To Meilong-Philosophy Club'
+theme = "PaperMod"
+[menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = "notes"
+  name = "Reading notes"
+  url = "/notes/"
+  weight = 2
+[[menu.main]]
+  identifier = "concepts"
+  name = "Concept development"
+  url = "/notes/"
+  weight = 3
+[[menu.main]]
+  identifier = "essays"
+  name = "Article"
+  url = "/essays/"
+  weight = 4
