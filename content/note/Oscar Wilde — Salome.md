@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "With Salome, Wilde told the story of Wilde himself"
 date = 2026-08-13T10:47:49+08:00
 draft = false
