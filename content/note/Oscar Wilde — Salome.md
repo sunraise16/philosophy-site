@@ -1,16 +1,10 @@
 ﻿+++
 title = "With Salome, Wilde told the story of Wilde himself"
-date = 2026-08-13T10:00:00+08:00
+date = 2026-08-13T10:47:49+08:00
 draft = false
-type = "note"
-categories = ["note"]
-tags = ["Wilde", "Tragedy鈥?]
-summary = "What Plato's cave still teaches us about education, justice, and the difficulty of returning."
-outputs = ["HTML"]
-[build]
-  render = true
-  list = true
-  publishResources = true
+categories = ["Reading Notes"]
+tags = ["Oscar Wilde", "Salome", "Aestheticism"]
+summary = "Under the cold moon, beauty demands everything: worship, possession, and finally, sacrifice. Wilde's Salome is the mirror in which aestheticism beholds its own lethal face."
 +++
 
 >Under the cold moon, beauty demands everything: worship, possession, and finally, sacrifice. Wilde's Salome is the mirror in which aestheticism beholds its own lethal face
