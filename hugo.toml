@@ -1,6 +1,6 @@
 baseURL = 'https://meilong-philosophy.com/'
 locale = 'zh-cn'
-title = 'Welcome To Meilong-Philosophy Club'
+title = 'Meilong Philosophy'
 theme = "PaperMod"
 [menu]
 [[menu.main]]
